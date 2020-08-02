@@ -9,4 +9,4 @@ For installation follow my vimrc github repository.
 Zsh shell config:
 -----------------------------------------------
 Font - MesloGDZ Nerd Font <br>
-Dependency - Colorlc, Oh-my-zsh, powerlevel9k
+Dependency - Colorlc, Oh-my-zsh, powerlevel9k, zsh-autosuggestions, zsh-syntax-coloring
