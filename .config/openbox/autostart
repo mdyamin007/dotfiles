@@ -1,0 +1,11 @@
+xset +fp ~/.fonts/misc/
+xset b off
+xset r rate 250 25
+xbacklight -set 30
+nitrogen --restore &
+tint2 -c /home/mdyamin/.config/tint2/popside/popside-red.tint2rc &
+sh /home/mdyamin/.config/conky/conky-startup.sh &
+stalonetray &
+picom &
+pcmanfm -d &
+dunst -geometry "300x60-28+56" &
