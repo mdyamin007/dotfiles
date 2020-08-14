@@ -39,8 +39,8 @@ Here are all of my dotifiles. It is actually for my backup but anyone can use th
 - **Wallpaper Handler** Nitrogen
 - **Brightness Manager** xbacklight
 - **Music Player** Audacious
-
-
+- **Exit Screen** oblogout
+- **Lock Screen** i3lock-fancy
 
 
 Openbox Themes Installation:
@@ -54,6 +54,15 @@ Tint2 Themes Installation:
 Conky Themes Installaion:
 -------------------------------------------------
 <a href="https://github.com/mdyamin007/dotfiles/blob/master/.config/conky/README.md"> README.md </a><br>
+
+Oblogut Themes Installation:
+-------------------------------------------------
+[Deviantart](https://www.deviantart.com/bruhensant/art/Theme-Oblogout-Adeos-667513097)<br/>
+
+i3lock Themes Installation:
+-------------------------------------------------
+[i3lock-fancy](https://github.com/meskarune/i3lock-fancy)
+<br />
 
 Vim config:
 -----------------------------------------------
