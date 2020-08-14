@@ -6,9 +6,14 @@ Here is all of my dotifiles. It is actually for my backup but anyone can use thi
 
 ##Openbox: Manjaro
 ![preview-openbox](https://raw.githubusercontent.com/mdyamin007/dotfiles/master/1.png) <br />
-**Openbox Theme** : Blocks (included in this repo)
-**Panel** : tint2 (little search bar on the bottom left corner)
-**Running Apps** : pcmanfm, termite.
+![preview-openbox](https://raw.githubusercontent.com/mdyamin007/dotfiles/master/2.png) <br />
+![preview-openbox](https://raw.githubusercontent.com/mdyamin007/dotfiles/master/3.png) <br />
+![preview-openbox](https://raw.githubusercontent.com/mdyamin007/dotfiles/master/4.png) <br />
+**Openbox Theme** : Blocks (included in this repo) <br/>
+**Tint2 Theme** : Popside-red (included in this repo) <br />
+**Conky Theme** : WhiteWalls (included)
+**Panel** : tint2 (little search bar on the bottom left corner) <br />
+**Running Apps** : pcmanfm, termite. <br />
 
 ##Details
 - **Distro** Manjaro Lysia
@@ -36,17 +41,7 @@ Here is all of my dotifiles. It is actually for my backup but anyone can use thi
 - **Music Player** Audacious
 
 
-Vim config:
------------------------------------------------
-Awesome vim <br>
-For installation follow my vimrc github repository.
-<br>
 
-Zsh shell config:
------------------------------------------------
-Font - MesloGDZ Nerd Font <br>
-Dependency - neofetch, tmux, colorlc, oh-my-zsh, powerlevel9k, zsh-autosuggestions, zsh-syntax-coloring
-<br>
 
 Openbox Themes Installation:
 -----------------------------------------------
@@ -60,7 +55,19 @@ Conky Themes Installaion:
 -------------------------------------------------
 <a href="https://github.com/mdyamin007/dotfiles/blob/master/.config/conky/README.md"> README.md </a><br>
 
-and for more details visit: <br/>
-[Addy-dclxvi github](https://github.com/addy-dclxvi)
+Vim config:
+-----------------------------------------------
+Awesome vim <br>
+For installation follow my vimrc github repository.
+<br>
+
+Zsh shell config:
+-----------------------------------------------
+Font - MesloGDZ Nerd Font <br>
+Dependency - neofetch, tmux, colorlc, oh-my-zsh, powerlevel9k, zsh-autosuggestions, zsh-syntax-coloring
+<br>
+
+And for more details visit: <br/>
+[Addy-dclxvi github](https://github.com/addy-dclxvi?tab=repositories)
 <br />
 [Almighty dotfiles config](https://github.com/addy-dclxvi/almighty-dotfiles)
