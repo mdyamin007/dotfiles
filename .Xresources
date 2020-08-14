@@ -1,0 +1,10 @@
+! ------------------------------------------------------------------------------
+! Import Colour from ~/.xrdb
+! ------------------------------------------------------------------------------
+
+#include ".xrdb/color/mostly-bright"
+#include ".xrdb/rofi/mostly-bright"
+#include ".xrdb/dmenu/mostly-bright"
+#include ".xrdb/fonts/tewi"
+
+                                         
