@@ -1,6 +1,6 @@
 ##Introduction
 
-Here is all of my dotifiles. It is actually for my backup but anyone can use this repo for their personal customization.
+Here are all of my dotifiles. It is actually for my backup but anyone can use this repo for their personal customization.
 
 ##Preview
 
