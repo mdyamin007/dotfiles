@@ -1,4 +1,40 @@
-Here i will store all of my essential dotfiles. <br>
+##Introduction
+
+Here is all of my dotifiles. It is actually for my backup but anyone can use this repo for their personal customization.
+
+##Preview
+
+##Openbox: Manjaro
+![preview-openbox](https://raw.githubusercontent.com/mdyamin007/dotfiles/master/1.png) <br />
+**Openbox Theme** : Blocks (included in this repo)
+**Panel** : tint2 (little search bar on the bottom left corner)
+**Running Apps** : pcmanfm, termite.
+
+##Details
+- **Distro** Manjaro Lysia
+- **Display Manager** LightDM
+- **Greeter** LightDM GTK Greeter
+- **Desktop Environment** None
+- **Launcher** Rofi
+- **Terminal** termite
+- **Compositor** picom
+- **Icons** ePapirus
+- **Cursor** Breeze Snow
+- **Web Browser** Firefox
+- **Task Manager** HTOP
+- **Image Viewer** Viewnior
+- **Sound Mixer** PulseAudio
+- **Notification Daemon** Dunst
+- **CLI Shell** ZSH
+- **CLI File Manager** Midnight Commander, vifm
+- **CLI Text Editor** Vim
+- **GUI Text Editor** Geany
+- **Graphic Editor** GIMP
+- **Screenshooter** xfce4-screenshooter
+- **Wallpaper Handler** Nitrogen
+- **Brightness Manager** xbacklight
+- **Music Player** Audacious
+
 
 Vim config:
 -----------------------------------------------
@@ -24,3 +60,7 @@ Conky Themes Installaion:
 -------------------------------------------------
 <a href="https://github.com/mdyamin007/dotfiles/blob/master/.config/conky/README.md"> README.md </a><br>
 
+and for more details visit: <br/>
+[Addy-dclxvi github](https://github.com/addy-dclxvi)
+<br />
+[Almighty dotfiles config](https://github.com/addy-dclxvi/almighty-dotfiles)
