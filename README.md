@@ -71,7 +71,7 @@ i3lock Themes Installation:
 Vim config:
 -----------------------------------------------
 Awesome vim <br>
-For installation follow my vimrc github repository.
+For installation follow my [vimrc](https://github.com/mdyamin007/vimrc) github repository.
 <br>
 
 Zsh shell config:
