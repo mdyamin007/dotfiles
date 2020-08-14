@@ -1,10 +1,13 @@
-##Introduction
+Introduction
+-------------
 
 Here are all of my dotifiles. It is actually for my backup but anyone can use this repo for their personal customization.
 
-##Preview
+Preview
+-----------
 
-##Openbox: Manjaro
+Openbox: Manjaro
+----------------------
 ![preview-openbox](https://raw.githubusercontent.com/mdyamin007/dotfiles/master/1.png) <br />
 ![preview-openbox](https://raw.githubusercontent.com/mdyamin007/dotfiles/master/2.png) <br />
 ![preview-openbox](https://raw.githubusercontent.com/mdyamin007/dotfiles/master/3.png) <br />
@@ -15,7 +18,8 @@ Here are all of my dotifiles. It is actually for my backup but anyone can use th
 **Panel** : tint2 (little search bar on the bottom left corner) <br />
 **Running Apps** : pcmanfm, termite. <br />
 
-##Details
+Details
+-------------------
 - **Distro** Manjaro Lysia
 - **Display Manager** LightDM
 - **Greeter** LightDM GTK Greeter
@@ -76,7 +80,7 @@ Font - MesloGDZ Nerd Font <br>
 Dependency - neofetch, tmux, colorlc, oh-my-zsh, powerlevel9k, zsh-autosuggestions, zsh-syntax-coloring
 <br>
 
-And for more details visit: <br/>
+I forked some github repo for these customization. Thanks to Addy-dclxvi. For more details visit here: <br/>
 [Addy-dclxvi github](https://github.com/addy-dclxvi?tab=repositories)
 <br />
 [Almighty dotfiles config](https://github.com/addy-dclxvi/almighty-dotfiles)
