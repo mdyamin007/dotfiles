@@ -1,4 +1,5 @@
 set number
+set mouse=a
 
 if &term =~ '^screen'
     " tmux will send xterm-style keys when its xterm-keys option is on
