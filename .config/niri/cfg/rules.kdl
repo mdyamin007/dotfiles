@@ -21,6 +21,7 @@
         match app-id="google-chrome"
         match app-id="cursor"
         match app-id="code"
+        match app-id="com.microsoft.VSCode"
         default-column-width { proportion 1.0; }
 }
 
@@ -46,6 +47,7 @@
 
     window-rule {
         match app-id="code"
+        match app-id="com.microsoft.VSCode"
         open-on-workspace "󰨞"
 }
 
